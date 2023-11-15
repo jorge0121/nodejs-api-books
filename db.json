@@ -21,6 +21,13 @@
             "author":"Gabriel Garcia",
             "year":"1978",
             "price":"145000"
+        },
+        {
+            "id": 4,
+            "name":"Luna llena",
+            "author":"Miguel Ferez",
+            "year":"2014",
+            "price":"57000"
         }
     ]
 }
