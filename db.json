@@ -2,32 +2,84 @@
     "books":[
         {
             "id": 1,
-            "name":"Cien años de soledad",
+            "title":"Cien años de soledad",
             "author":"Gabriel Garcia",
             "year":"1967",
-            "price":"150000"
+            "price":"150000",
+            "description":""
 
         },
         {
             "id": 2,
-            "name":"Historias de Miedo Para Contar en la Oscuridad",
+            "title":"Historias de Miedo Para Contar en la Oscuridad",
             "author":"Gillermo Del Toro",
             "year":"2017",
-            "price":"19800"
+            "price":"19800",
+            "description":""
         },
         {
             "id": 3,
-            "name":"Mientra llueve",
+            "title":"Mientra llueve",
             "author":"Gabriel Garcia",
             "year":"1978",
-            "price":"145000"
+            "price":"145000",
+            "description":""
         },
         {
             "id": 4,
-            "name":"Luna llena",
+            "title":"Luna llena",
             "author":"Miguel Ferez",
             "year":"2014",
-            "price":"57000"
+            "price":"57000",
+            "description":""
+        },
+        {
+            "id": 5,
+            "title":"Luz del mundo",
+            "author":"Jose Barrios",
+            "year":"2018",
+            "price":"48900",
+            "description":""
+        },
+        {
+            "id": 6,
+            "title":"Mar de lagrimas",
+            "author":"Marcos Mendoza",
+            "year":"1945",
+            "price":"15000",
+            "description":""
+        },
+        {
+            "id": 7,
+            "name":"No busqué en el pasado",
+            "author":"Maria Zambrano",
+            "year":"2010",
+            "price":"35000",
+            "description":""
+        },
+        {
+            "id": 8,
+            "name":"El origen de la felicidad",
+            "author":"Carlos Diaz",
+            "year":"1995",
+            "price":"26300",
+            "description":""
+        },
+        {
+            "id": 9,
+            "name":"El truco del maestro",
+            "author":"Angela Reynales",
+            "year":"2014",
+            "price":"35000",
+            "description":""
+        },
+        {
+            "id": 10,
+            "name":"Faltan solo dos horas",
+            "author":"Mayra Dominguez",
+            "year":"1995",
+            "price":"14800",
+            "description":""
         }
     ]
 }
