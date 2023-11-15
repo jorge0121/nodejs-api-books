@@ -1,0 +1,26 @@
+{
+    "books":[
+        {
+            "id": 1,
+            "name":"Cien años de soledad",
+            "author":"Gabriel Garcia",
+            "year":"1967",
+            "price":"150000"
+
+        },
+        {
+            "id": 2,
+            "name":"Historias de Miedo Para Contar en la Oscuridad",
+            "author":"Gillermo Del Toro",
+            "year":"2017",
+            "price":"19800"
+        },
+        {
+            "id": 3,
+            "name":"Mientra llueve",
+            "author":"Gabriel Garcia",
+            "year":"1978",
+            "price":"145000"
+        }
+    ]
+}
